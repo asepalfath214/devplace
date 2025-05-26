@@ -5,7 +5,7 @@ export function pageDetail() {
     </div>
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mx-7 my-14 md:m-12">
       <div class="w-full bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
-        <img class="p-3" src="./src/img/foto2.jpg" alt="product image" />
+        <img class="p-3" src="/img/foto2.jpg" alt="product image" />
         <div class="px-5 pb-5">
           <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Website Travel</h5>
 
@@ -22,7 +22,7 @@ export function pageDetail() {
       </div>
 
       <div class="w-full bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
-        <img class="p-3" src="./src/img/foto2.jpg" alt="product image" />
+        <img class="p-3" src="/img/foto2.jpg" alt="product image" />
         <div class="px-5 pb-5">
           <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Website Travel</h5>
 
@@ -39,7 +39,7 @@ export function pageDetail() {
       </div>
 
       <div class="w-full bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
-        <img class="p-3" src="./src/img/foto2.jpg" alt="product image" />
+        <img class="p-3" src="/img/foto2.jpg" alt="product image" />
         <div class="px-5 pb-5">
           <h5 class="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Website Travel</h5>
 

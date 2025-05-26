@@ -9,7 +9,7 @@ const routes = {
   "/": homepage,
   "/detail": detailPage,
   "/page-detail": pageDetail,
-  pembayaran: pembayaranPage,
+  "/pembayaran": pembayaranPage,
 };
 
 function router() {
