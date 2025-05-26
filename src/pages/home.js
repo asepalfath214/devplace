@@ -49,7 +49,7 @@ export function homepage() {
                 <div class="flex items-center justify-between mt-3">
                   <!-- <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span> -->
                   <a
-                    href="#"
+                    href="#/detail"
                     class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-full text-[13px] px-3 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                     >Lihat Detail</a
                   >
@@ -67,7 +67,7 @@ export function homepage() {
                 <div class="flex items-center justify-between mt-3">
                   <!-- <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span> -->
                   <a
-                    href="#"
+                    href="#/detail"
                     class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-full text-[13px] px-3 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                     >Lihat Detail</a
                   >
@@ -85,7 +85,7 @@ export function homepage() {
       <div class="flex justify-between items-center mb-3">
         <p class="text-blue-900 font-bold text-[21px]">Landing Page</p>
         <div class="flex">
-          <a href="">
+          <a href="#/page-detail">
             <p class="flex items-center">More<ion-icon name="caret-forward-outline"></ion-icon></p>
           </a>
         </div>
@@ -103,7 +103,7 @@ export function homepage() {
                 <div class="flex items-center justify-between mt-3">
                   <!-- <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span> -->
                   <a
-                    href="#"
+                    href="#/detail"
                     class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-full text-[13px] px-3 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                     >Lihat Detail</a
                   >
@@ -121,7 +121,7 @@ export function homepage() {
                 <div class="flex items-center justify-between mt-3">
                   <!-- <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span> -->
                   <a
-                    href="#"
+                    href="#/detail"
                     class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-full text-[13px] px-3 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                     >Lihat Detail</a
                   >
@@ -139,7 +139,7 @@ export function homepage() {
                 <div class="flex items-center justify-between mt-3">
                   <!-- <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span> -->
                   <a
-                    href="#"
+                    href="#/detail"
                     class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-full text-[13px] px-3 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                     >Lihat Detail</a
                   >
