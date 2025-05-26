@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "swiper/css/bundle";
+
+/* .swiper-button-next::after,
+.swiper-button-prev::after {
+  display: none !important;
+} */
+
+@theme {
+  --font-montserrat: Montserrat, sans-serif;
+}
