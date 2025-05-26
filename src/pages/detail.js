@@ -1,7 +1,7 @@
 export function detailPage() {
   return `
     <div class="mx-7 my-32 md:mx-auto max-w-lg">
-      <img src="./src/img/foto2.jpg" alt="fotodetail" class="rounded-lg" />
+      <img src="/img/foto2.jpg" alt="fotodetail" class="rounded-lg" />
       <div class="mt-5">
         <div class="flex items-center justify-between">
           <h3 class="font-bold text-lg text-blue-950 mb-3">DTravel</h3>
@@ -66,7 +66,7 @@ export function detailPage() {
               Ajukan Penawaran
             </button>
 
-            <a href="/pembayaran">
+            <a href="#/pembayaran">
               <button
                 type="button"
                 class="text-white bg-gray-800 hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-full text-[11px] px-3 py-2.5 me-2 mb-2 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700 disabled:bg-gray-400 disabled:cursor-not-allowed"
